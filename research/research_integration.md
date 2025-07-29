@@ -255,3 +255,7 @@ Based on these inputs, prompts should guide the LLM to adapt its feedback strate
 - The LLM should dynamically tailor the specificity of its feedback, moving from explicit, elaborative corrections for low-performing students to broader hints or conceptual explanations for those with higher mastery.
 
 The ability of LLMs to analyze student input and performance in real-time, coupled with their capacity for nuanced language generation, positions them as powerful tools for creating highly adaptive and effective AI language tutors.
+
+# SOURCE
+
+https://ai.googleblog.com/2024/06/announcing-gemini-live-api.html

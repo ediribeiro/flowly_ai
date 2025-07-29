@@ -2,6 +2,17 @@
 
 This roadmap is structured to deliver the most critical user value first, creating a solid foundation to build upon.
 
+
+// Half cascade model:
+// const model = "gemini-2.5-flash-live-preview"
+const model = "gemini-2.0-flash-live-001"
+
+// Native audio output model:
+// const model = "gemini-2.5-flash-preview-native-audio-dialog"
+
+// Native audio output model:
+//const model = "gemini-2.5-flash-exp-native-audio-dialog"
+
 ---
 
 ### **Phase 1: The Core Interaction MVP (Minimum Viable Product)**
